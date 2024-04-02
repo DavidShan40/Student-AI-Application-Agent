@@ -144,7 +144,6 @@ pyproject_hooks==1.0.0
 pyreadline3==3.4.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
-pytz==2024.1
 pywin32==306
 PyYAML==6.0.1
 pyzmq==25.1.1
