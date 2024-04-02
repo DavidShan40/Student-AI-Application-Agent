@@ -6,3 +6,4 @@ pybase64
 pdfplumber
 openai
 langchain_openai
+nltk
