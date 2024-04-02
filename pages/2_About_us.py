@@ -40,7 +40,7 @@ st.header('Contact Us')
 st.write('Email: tshan.work@gmail.com')
 
 # Add an image
-st.image('Photos\About us\About_us_photo.webp', caption='Caption for your image.')
+st.image(os.path.join('Photos', 'About us', 'About_us_photo.webp'), caption='Our Team.')
 
 # import smtplib
 # from email.mime.text import MIMEText
