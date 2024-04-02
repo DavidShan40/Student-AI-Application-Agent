@@ -1,0 +1,11 @@
+streamlit
+langchain
+pandas >= 2.0.3
+python-docx
+pybase64
+pdfplumber
+openai
+langchain_openai
+nltk
+scikit-learn
+chromadb
