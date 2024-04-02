@@ -8,3 +8,4 @@ openai
 langchain_openai
 nltk
 scikit-learn
+chromadb
