@@ -7,3 +7,4 @@ pdfplumber
 openai
 langchain_openai
 nltk
+scikit-learn
