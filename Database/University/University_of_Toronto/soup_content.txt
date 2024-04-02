@@ -1,0 +1,398 @@
+
+<!DOCTYPE html>
+
+<html lang="en-CA">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<link href="https://future.utoronto.ca/wp-content/themes/future-students/favicon.ico" rel="shortcut icon"/>
+<title>Actuarial Science - Future Students. University of Toronto | University of Toronto</title>
+<script async="async" src="https://apply.adm.utoronto.ca/ping">/**/</script>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v21.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link href="https://future.utoronto.ca/undergraduate-programs/actuarial-science/" rel="canonical"/>
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="Actuarial Science - Future Students. University of Toronto" property="og:title"/>
+<meta content="https://future.utoronto.ca/undergraduate-programs/actuarial-science/" property="og:url"/>
+<meta content="Future Students. University of Toronto" property="og:site_name"/>
+<meta content="2020-06-08T14:48:02+00:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://future.utoronto.ca/undergraduate-programs/actuarial-science/","url":"https://future.utoronto.ca/undergraduate-programs/actuarial-science/","name":"Actuarial Science - Future Students. University of Toronto","isPartOf":{"@id":"https://future.utoronto.ca/#website"},"datePublished":"2019-06-27T00:56:21+00:00","dateModified":"2020-06-08T14:48:02+00:00","breadcrumb":{"@id":"https://future.utoronto.ca/undergraduate-programs/actuarial-science/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://future.utoronto.ca/undergraduate-programs/actuarial-science/"]}]},{"@type":"BreadcrumbList","@id":"https://future.utoronto.ca/undergraduate-programs/actuarial-science/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://future.utoronto.ca/"},{"@type":"ListItem","position":2,"name":"Actuarial Science"}]},{"@type":"WebSite","@id":"https://future.utoronto.ca/#website","url":"https://future.utoronto.ca/","name":"Future Students. University of Toronto","description":"","publisher":{"@id":"https://future.utoronto.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://future.utoronto.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://future.utoronto.ca/#organization","name":"University of Toronto","url":"https://future.utoronto.ca/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://future.utoronto.ca/#/schema/logo/image/","url":"https://future.utoronto.ca/wp-content/uploads/site_logo.png","contentUrl":"https://future.utoronto.ca/wp-content/uploads/site_logo.png","width":234,"height":84,"caption":"University of Toronto"},"image":{"@id":"https://future.utoronto.ca/#/schema/logo/image/"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//www.google.com" rel="dns-prefetch"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/future.utoronto.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link href="https://future.utoronto.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--gtb-color-1: #007bff;--wp--preset--color--gtb-color-2: #6c757d;--wp--preset--color--gtb-color-3: #28a745;--wp--preset--color--gtb-color-4: #dc3545;--wp--preset--color--gtb-color-5: #ffc107;--wp--preset--color--gtb-color-6: #17a2b8;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://future.utoronto.ca/wp-content/plugins/adhome-accessibility/css/style.css?ver=6.4.3" id="adhome-accessibility-style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="adhome-accessibility-style-inline-css" type="text/css">
+:focus { outline-color: #365983 !important; }
+</style>
+<link href="https://future.utoronto.ca/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=1.7.6" id="wpa-style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wpa-style-inline-css" type="text/css">
+
+.wpa-hide-ltr#skiplinks a, .wpa-hide-ltr#skiplinks a:hover, .wpa-hide-ltr#skiplinks a:visited {
+	
+}
+.wpa-hide-ltr#skiplinks a:active,  .wpa-hide-ltr#skiplinks a:focus {
+	
+}
+	:root { --admin-bar-top : 7px; }
+</style>
+<link href="https://future.utoronto.ca/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.16" id="search-filter-plugin-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://future.utoronto.ca/wp-content/themes/future-students/css/bootstrap-reboot.min.css?ver=4.1.3" id="bootstrap-reboot-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://future.utoronto.ca/wp-content/themes/future-students/css/bootstrap-grid.min.css?ver=4.1.3" id="bootstrap-grid-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://future.utoronto.ca/wp-content/themes/future-students/style.css?ver=6.4.3" id="styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://future.utoronto.ca/wp-content/tablepress-combined.min.css?ver=42" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://future.utoronto.ca/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.8" id="tablepress-responsive-tables-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="kadence-blocks-global-variables-inline-css" type="text/css">
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+</style>
+<script id="jquery-core-js" src="https://future.utoronto.ca/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://future.utoronto.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" type="text/javascript"></script>
+<script id="search-filter-plugin-build-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var SF_LDATA = {"ajax_url":"https:\/\/future.utoronto.ca\/wp-admin\/admin-ajax.php","home_url":"https:\/\/future.utoronto.ca\/","extensions":[]};
+/* ]]> */
+</script>
+<script id="search-filter-plugin-build-js" src="https://future.utoronto.ca/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.5.16" type="text/javascript"></script>
+<script id="search-filter-plugin-chosen-js" src="https://future.utoronto.ca/wp-content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.5.16" type="text/javascript"></script>
+<script id="wpa-fingerprintjs-js" src="https://future.utoronto.ca/wp-content/plugins/wp-accessibility/js/fingerprint.min.js?ver=1.7.6" type="text/javascript"></script>
+<link href="https://future.utoronto.ca/wp-json/" rel="https://api.w.org/"/><link href="https://future.utoronto.ca/wp-json/wp/v2/programs/3929" rel="alternate" type="application/json"/><link href="https://future.utoronto.ca/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://future.utoronto.ca/?p=3929" rel="shortlink"/>
+<link href="https://future.utoronto.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffuture.utoronto.ca%2Fundergraduate-programs%2Factuarial-science%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://future.utoronto.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffuture.utoronto.ca%2Fundergraduate-programs%2Factuarial-science%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pagePostType":"programs","pagePostType2":"single-programs","pagePostAuthor":"Jocelyn Lagerquist"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N38MLF');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --> <style id="wp-custom-css" type="text/css">
+			h2.gform_title {
+    display: none !important;
+}
+
+.gform_required_legend {
+display: none;
+}
+
+.gform_wrapper.gravity-theme .gfield input.medium, .gform_wrapper.gravity-theme .gfield select.medium {
+	width: calc(100% - 16px / 2);
+}
+		</style>
+</meta></meta></meta></head>
+<body class="programs-template-default single single-programs postid-3929">
+<nav aria-label="Main" class="nav">
+<div class="nav-navbar d-flex">
+<a class="nav-logo-wrapper d-flex align-items-center justify-content-center" href="/">
+<img alt="Home" class="nav-logo" src="https://future.utoronto.ca/wp-content/themes/future-students/images/site_logo.png"/>
+</a>
+<div class="nav-menu">
+<ul class="nav-menu-main" id="menu-main-menu"><li class="nav-menu-main-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-666"><a aria-controls="menu1023788801" aria-expanded="false" aria-haspopup="true" class="menu-link nav-menu-main-link" href="https://future.utoronto.ca/academics/">Academics</a><div class="nav-submenu" id="menu1023788801">
+<div class="container">
+<div class="row">
+<div class="col-lg-4"><ul class="nav-submenu-list"> <li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-287"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/undergraduate-programs/">Undergraduate Programs</a></li>
+<li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-348"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/professional-and-graduate-programs/">Professional and Graduate Programs</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-8030"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/build-your-own-degree/">Build Your Own Degree</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-1017"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/first-year-foundations-the-one-programs/">First Year Foundations: The One Programs</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-1016"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/beyond-classes-global-co-op-experiential/">Beyond Classes: Global, Co-Op, Experiential</a></li>
+<li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-351"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/students-research/">Students &amp; Research</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-5164"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/academics/pre-university-programs/">Pre-University Programs</a></li>
+</ul></div><div class="col-lg-4">
+<div class="nav-submenu-heading"></div>
+<div class="nav-submenu-text"></div>
+</div>
+<div class="col-lg-4 nav-submenu-image-container">
+</div>
+</div></div></div></li>
+<li class="nav-menu-main-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-694"><a aria-controls="menu1642569261" aria-expanded="false" aria-haspopup="true" class="menu-link nav-menu-main-link" href="https://future.utoronto.ca/university-life/">Explore</a><div class="nav-submenu" id="menu1642569261">
+<div class="container">
+<div class="row">
+<div class="col-lg-4"><ul class="nav-submenu-list"> <li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-12380"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/future-students-resources/">Viewbooks</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-310"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/toronto-gta/">Toronto &amp; GTA</a></li>
+<li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-353"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/about-the-campuses/">About the Campuses</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-1109"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/housing/">Housing</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-355"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/dining-food/">Dining &amp; Food</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-356"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/transportation/">Transportation</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-357"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/campus-life/">Campus Life</a></li>
+<li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-7833"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/university-life/equity-outreach-support/">Equity, Outreach, and Support</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-8864"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/talks/">U of T Talks</a></li>
+</ul></div><div class="col-lg-4">
+<div class="nav-submenu-heading"></div>
+<div class="nav-submenu-text"></div>
+</div>
+<div class="col-lg-4 nav-submenu-image-container">
+</div>
+</div></div></div></li>
+<li class="nav-menu-main-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-704"><a aria-controls="menu355634087" aria-expanded="false" aria-haspopup="true" class="menu-link nav-menu-main-link" href="https://future.utoronto.ca/visit/">Visit</a><div class="nav-submenu" id="menu355634087">
+<div class="container">
+<div class="row">
+<div class="col-lg-4"><ul class="nav-submenu-list"> <li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-315"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/visit/campus-tours/">Campus Tours</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-13228"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/visit/campus-tours/virtual-tours/">Virtual Campus Tours</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-12936"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/visit/events/">Events</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-6885"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/visit/webcasts/">Online Info Sessions &amp; Webcasts</a></li>
+<li class="sub-menu-item menu-item menu-item-type-custom menu-item-object-custom" id="nav-menu-item-360"><a class="menu-link nav-submenu-link" href="https://apply.adm.utoronto.ca/register/?id=f7117325-db65-4f28-a7f3-a9f2fded924b" target="_blank">Request Information</a></li>
+</ul></div><div class="col-lg-4">
+<div class="nav-submenu-heading"></div>
+<div class="nav-submenu-text"></div>
+</div>
+<div class="col-lg-4 nav-submenu-image-container">
+</div>
+</div></div></div></li>
+<li class="nav-menu-main-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-718"><a aria-controls="menu693493605" aria-expanded="false" aria-haspopup="true" class="menu-link nav-menu-main-link" href="https://future.utoronto.ca/apply/">Apply</a><div class="nav-submenu" id="menu693493605">
+<div class="container">
+<div class="row">
+<div class="col-lg-4"><ul class="nav-submenu-list"> <li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-998"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/requirements/">Requirements</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-719"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/applying/">Applying</a></li>
+<li class="sub-menu-item line menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-12376"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/after-you-have-applied/">After You Have Applied</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-722"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/important-application-dates/">Important Application Dates</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-720"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/english-language-requirements/">English Language Requirements</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-5125"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/apply/applying/transfer-credit-information/">Transfer Credit Information</a></li>
+</ul></div><div class="col-lg-4">
+<div class="nav-submenu-heading"></div>
+<div class="nav-submenu-text"></div>
+</div>
+<div class="col-lg-4 nav-submenu-image-container">
+</div>
+</div></div></div></li>
+<li class="nav-menu-main-item menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" id="nav-menu-item-731"><a aria-controls="menu448720976" aria-expanded="false" aria-haspopup="true" class="menu-link nav-menu-main-link" href="https://future.utoronto.ca/finances/">Finances</a><div class="nav-submenu" id="menu448720976">
+<div class="container">
+<div class="row">
+<div class="col-lg-4"><ul class="nav-submenu-list"> <li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-11776"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/finances/fees/">University Fees</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-11779"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/finances/awards/">Student Awards</a></li>
+<li class="sub-menu-item menu-item menu-item-type-post_type menu-item-object-page" id="nav-menu-item-11757"><a class="menu-link nav-submenu-link" href="https://future.utoronto.ca/finances/financial-aid/">Financial Aid</a></li>
+</ul></div><div class="col-lg-4">
+<div class="nav-submenu-heading"></div>
+<div class="nav-submenu-text"></div>
+</div>
+<div class="col-lg-4 nav-submenu-image-container">
+</div>
+</div></div></div></li>
+</ul> <div class="nav-menu-secondary"><ul class="menu" id="menu-ancillary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1480" id="menu-item-1480"><a href="https://future.utoronto.ca/international-students/">International Students</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8238" id="menu-item-8238"><a href="https://future.utoronto.ca/apply/resources-for-counsellors/">School Counsellors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12382" id="menu-item-12382"><a href="https://future.utoronto.ca/apply/resources-for-parents/">Parents and Supporters</a></li>
+</ul></div>
+</div>
+<div class="nav-btn-container">
+<button aria-expanded="false" aria-label="mobile menu" class="nav-btn align-self-center" type="button">
+<span class="nav-btn-line"></span>
+<span class="nav-btn-line"></span>
+<span class="nav-btn-line"></span>
+</button>
+<div class="nav-btn-social">
+<a class="nav-btn-action" href="https://apply.adm.utoronto.ca/register/?id=f7117325-db65-4f28-a7f3-a9f2fded924b">Connect With Us</a>
+<div class="nav-btn-social-icons">
+<a class="nav-btn-social-icon" href="https://www.instagram.com/futureuoft/" target="_blank">
+<img alt="Instagram" src="/wp-content/uploads/instagram-icon-new.png" style="width: 26px;height: 26px;margin-right: 2px;"/>
+</a>
+<a class="nav-btn-social-icon" href="https://www.facebook.com/FutureUofT" target="_blank">
+<img alt="Facebook" src="https://future.utoronto.ca/wp-content/themes/future-students/images/menu_facebook.png"/>
+</a>
+<a class="nav-btn-social-icon" href="https://twitter.com/futureuoft" target="_blank">
+<img alt="Twitter" src="https://future.utoronto.ca/wp-content/themes/future-students/images/menu_twitter.png"/>
+</a>
+<button aria-controls="site-search" aria-expanded="false" class="nav-btn-social-search" type="button">
+<img alt="Search" src="https://future.utoronto.ca/wp-content/themes/future-students/images/menu_search.png"/>
+</button>
+<div class="nav-btn-social-input-container js-search" id="site-search">
+<form action="/" method="get" role="search">
+<label for="search">Search in https://future.utoronto.ca/</label>
+<input class="nav-btn-social-input" id="search" name="s" placeholder="Search" type="text" value=""/>
+<button class="sr-only" type="submit">Search</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav> <div class="banner">
+<div class="banner-container">
+<div class="banner-text d-flex align-items-center">
+<img alt="shield" class="banner-shield" src="https://future.utoronto.ca/wp-content/themes/future-students/images/shield-green.png"/>
+<h1 class="banner-heading banner-heading-large">Undergraduate Programs </h1>
+</div>
+</div>
+</div>
+<div class="stripe-content stripe-mask stripe-white">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<p class="backlink"><a href="/undergraduate-programs">Back to Undergraduate Programs</a></p>
+</div>
+<div class="col-md-8">
+<h2>Actuarial Science</h2>
+</div>
+</div>
+</div>
+</div>
+<div class="container" id="main" role="main">
+<p class="campus-block">St. George Campus, Faculty of Arts &amp; Science</p>
+<div class="row">
+<div class="col-md-8">
+</div>
+<div class="col-md-6">
+<h2>Program Information</h2>
+<p>Degree(s):
+<strong>Honours Bachelor of Science</strong>
+</p>
+<p>Program(s):
+<strong>Actuarial Science																																																		(Major, Specialist)</strong><br/>
+</p>
+<p>OUAC Admission Code:
+<strong>TPG (Physical &amp; Mathematical Sciences)</strong></p>
+</div>
+<div class="col-md-6">
+<h2>Academic Requirements</h2>
+<p>Ontario Secondary School Diploma<br/>Six 4U/M courses, including:</p>
+<ul>
+<li>Calculus &amp; Vectors (MCV4U)</li>
+<li>English (ENG4U)</li>
+</ul>
+<p>Find equivalent requirements for <a href="/apply/requirements/canadian-high-school-canadian-university-and-college/">Canadian high school systems</a>, <a href="/apply/requirements/international-high-school-secondary/usa/">US high school system</a>, <a href="/apply/requirements/international-high-school-secondary/ib/">International Baccalaureate</a>, <a href="/apply/requirements/international-high-school-secondary/british/">British-Patterned Education</a>, <a href="/apply/requirements/international-high-school-secondary/french/">French-Patterned Education</a>, <a href="/apply/requirements/international-high-school-secondary/cape/">CAPE</a>, and other <a href="/apply/requirements/international-high-school-secondary/">international high school systems</a>.</p>
+</div>
+<div class="col-md-12">
+<a class="btn btn-tertiary" href="https://www.artsci.utoronto.ca/future/ready-apply/admission-categories/physical-mathematical-sciences">Learn more about Actuarial Sciences in the Faculty of Arts &amp; Science</a>
+</div>
+</div>
+</div>
+<div class="subfooter-social">
+<div class="container-fluid">
+<div class="row align-items-center">
+<div class="col-7">
+<span class="subfooter-social-text">Connect With Us</span>
+</div>
+<div class="col-5">
+<a class="subfooter-social-link" href="https://twitter.com/uoft" target="_blank">
+<img alt="Twitter" class="subfooter-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_twitter.svg"/>
+</a>
+<a class="subfooter-social-link" href="https://www.facebook.com/universitytoronto" target="_blank">
+<img alt="Facebook" class="subfooter-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_facebook.svg"/>
+</a>
+<a class="subfooter-social-link" href="https://www.youtube.com/user/universitytoronto" target="_blank">
+<img alt="Youtube" class="subfooter-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_youtube.svg"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col">
+<div class="footer-social">
+<div class="footer-social-heading">Connect With Us</div>
+<a class="footer-social-link" href="https://twitter.com/futureuoft" target="_blank">
+<img alt="Twitter" class="footer-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_twitter.svg"/>
+</a>
+<a class="footer-social-link" href="https://www.facebook.com/FutureUofT" target="_blank">
+<img alt="Facebook" class="footer-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_facebook.svg"/>
+</a>
+<a class="footer-social-link" href="https://www.youtube.com/c/FutureUofT" target="_blank">
+<img alt="Youtube" class="footer-social-icon" src="https://future.utoronto.ca/wp-content/themes/future-students/images/footer_youtube.svg"/>
+</a>
+</div>
+</div>
+<div class="col">
+<ul class="footer-text">
+<li>
+<a href="https://utoronto.ca" target="_blank">U of T Home</a>
+</li>
+<li>
+<a href="/our-commitment-accessibility">Accessibility Statement</a>
+</li>
+<li>© 2024 University of Toronto,</li>
+<li>
+            25 King's College Circle, Toronto, Ontario, Canada M5S 1A1
+          </li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script async="async" defer="defer" src="https://www.youvisit.com/tour/Embed/js3"></script>
+<script id="adhome-accessibility-script-js" src="https://future.utoronto.ca/wp-content/plugins/adhome-accessibility/js/script.js?ver=1.0" type="text/javascript"></script>
+<script id="gtm4wp-form-move-tracker-js" src="https://future.utoronto.ca/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-form-move-tracker.js?ver=1.19.1" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="https://future.utoronto.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="jquery-ui-datepicker-js" src="https://future.utoronto.ca/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" type="text/javascript"></script>
+<script id="jquery-ui-datepicker-js-after" type="text/javascript">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+/* ]]> */
+</script>
+<script id="scriptsjs-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wp_js_path = {"nonce":"f5591beca4","siteURL":"https:\/\/future.utoronto.ca"};
+/* ]]> */
+</script>
+<script id="scriptsjs-js" src="https://future.utoronto.ca/wp-content/themes/future-students/scripts/scripts.js?ver=1.0.0" type="text/javascript"></script>
+<script id="gforms_recaptcha_recaptcha-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"site_key":"6LcLat0eAAAAAGcAjQyhfKSu65o8VTGtO7jB7NPO","ajaxurl":"https:\/\/future.utoronto.ca\/wp-admin\/admin-ajax.php","nonce":"aaa5fdf672"};
+/* ]]> */
+</script>
+<script id="gforms_recaptcha_recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LcLat0eAAAAAGcAjQyhfKSu65o8VTGtO7jB7NPO&amp;ver=1.3.0" type="text/javascript"></script>
+<script id="gforms_recaptcha_recaptcha-js-after" type="text/javascript">
+/* <![CDATA[ */
+(function($){grecaptcha.ready(function(){$('.grecaptcha-badge').css('visibility','hidden');});})(jQuery);
+/* ]]> */
+</script>
+<script id="wpa.longdesc-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpald = {"url":"https:\/\/future.utoronto.ca\/wp-json\/wp\/v2\/media","type":"jquery","text":"<span class=\"dashicons dashicons-media-text\" aria-hidden=\"true\"><\/span><span class=\"screen-reader\">Long Description<\/span>"};
+/* ]]> */
+</script>
+<script id="wpa.longdesc-js" src="https://future.utoronto.ca/wp-content/plugins/wp-accessibility/js/longdesc.min.js?ver=1.7.6" type="text/javascript"></script>
+<script id="wp-accessibility-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpa = {"skiplinks":{"enabled":true,"output":"<div class=\"wpa-hide-ltr\" id=\"skiplinks\" role=\"navigation\" aria-label=\"Skip links\"><a href=\"#main\" class='no-scroll et_smooth_scroll_disabled'>Skip to Content<\/a> <\/div>"},"target":"","tabindex":"1","underline":{"enabled":false,"target":"a"},"dir":"ltr","lang":"en-CA","titles":"1","labels":"1","wpalabels":{"s":"Search","author":"Name","email":"Email","url":"Website","comment":"Comment"},"current":"","errors":"","tracking":"1","ajaxurl":"https:\/\/future.utoronto.ca\/wp-admin\/admin-ajax.php","security":"4eda91521b","action":"wpa_stats_action","url":"https:\/\/future.utoronto.ca\/undergraduate-programs\/actuarial-science\/","post_id":"3929"};
+/* ]]> */
+</script>
+<script id="wp-accessibility-js" src="https://future.utoronto.ca/wp-content/plugins/wp-accessibility/js/wp-accessibility.min.js?ver=1.7.6" type="text/javascript"></script>
+</body>
+</html>
