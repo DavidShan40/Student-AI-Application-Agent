@@ -110,7 +110,8 @@ def RAG(user_query):
         return ((tfidf * tfidf.T).A)[0,1]
 
     #user_query = "I want to study Applied Mathematics, how to apply this program?"
-    folder_path = r"Database\University\University_of_Waterloo\Academic_Programs"
+    #folder_path = r"Database\University\University_of_Waterloo\Academic_Programs"
+    folder_path = os.path.join('Database','University','University_of_Waterloo','Academic_Programs')
 
     words_to_remove = ["programs", "Studies"]
     def remove_unwanted_words(filename, words_to_remove):

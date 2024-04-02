@@ -23,14 +23,15 @@ st.write("""
 st.header('Our Team')
 # Using columns for team members
 col1, col2, col3 = st.columns(3)
+
 with col1:
-    st.image('Photos\About us\People\People_1.webp', caption='Team Member 1')
+    st.image(os.path.join('Photos', 'About us', 'People', 'People_1.webp'), caption='Team Member 1')
     st.write('Role: Position')
 with col2:
-    st.image('Photos\About us\People\People_2.webp', caption='Team Member 2')
+    st.image(os.path.join('Photos', 'About us', 'People', 'People_2.webp'), caption='Team Member 2')
     st.write('Role: Position')
 with col3:
-    st.image('Photos\About us\People\People_3.webp', caption='Team Member 3')
+    st.image(os.path.join('Photos', 'About us', 'People', 'People_3.webp'), caption='Team Member 3')
     st.write('Role: Position')
 
 
