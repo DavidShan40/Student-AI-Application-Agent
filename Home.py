@@ -17,3 +17,5 @@ st.markdown(
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 os.environ['gmail_username'] = st.secrets['gmail_username']
 os.environ['gmail_password'] = st.secrets['gmail_password']
+import os
+print("Current Working Directory:", os.getcwd())
