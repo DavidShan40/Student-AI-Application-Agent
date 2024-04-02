@@ -4,6 +4,10 @@ import os
 import nltk
 nltk.download('punkt')
 
+# import pysqlite3
+# import sys
+# sys.modules[‘sqlite3’] = sys.modules.pop(‘pysqlite3’)
+
 # initial Setting
 max_output_token = 4096
 #model = "gpt-4"
