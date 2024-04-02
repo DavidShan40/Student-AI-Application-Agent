@@ -9,4 +9,3 @@ langchain_openai
 nltk
 scikit-learn
 chromadb
-sqlite3
