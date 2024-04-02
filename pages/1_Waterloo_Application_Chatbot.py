@@ -1,6 +1,8 @@
 from openai import OpenAI
 import streamlit as st
 import os
+import nltk
+nltk.download('punkt')
 
 # initial Setting
 max_output_token = 4096
