@@ -2,4 +2,5 @@
 Learning Streamlit code and help more people using AI
 
 ## How to run the file locally:
-streamlit run menu.py
+* Step 1: modify OPENAI_API_KEY in .streamlit/secrets.toml
+* Step 2: streamlit run menu.py
